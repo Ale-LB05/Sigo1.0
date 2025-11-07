@@ -42,6 +42,6 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 @Composable
 fun GreetingPreview() {
     Sigo10Theme {
-        Greeting("Adios")
+        Greeting("Adios jochis")
     }
 }
